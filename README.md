@@ -67,8 +67,8 @@ Contributions are welcome! If you have any suggestions or additional historical 
 ## Contact
 
 If you have any questions or ideas about the project, feel free to reach out:  
-**Author**: [Your Name]  
-**Email**: [Your Email Address]  
+**Author**:   Aleksandra Krajina 
+**Email**: akrajinaaleksandra@gmail.com  
 
 ---
 
